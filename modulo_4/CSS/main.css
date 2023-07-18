@@ -1,0 +1,19 @@
+h1{
+    color:rgb(255, 102, 0);
+    }
+
+section#esportes h2{
+    color:rgb(20, 20, 17);
+}
+
+#economia h2{
+    color:pink;
+}
+
+.date-create {
+    color:red;
+}
+
+*{
+    color:aqua;
+}
